@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://luckybeercasino.github.io/sitemap.xml
+Sitemap: https://luckybeercasino-github-io.vercel.app/sitemap.xml
